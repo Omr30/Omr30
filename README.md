@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Menacho</h1>
 <h3 align="center">Soy un Software Developer de Perú</h3>
 
-- 🌱Me encuentro aprendiendo **React, Node.js, docker**
+- Me puedes preguntar sobre **React, Node.js, docker**
 
 - 📫 Me puedes escribir aqui **mvrkzk30@gmail.com**
 
