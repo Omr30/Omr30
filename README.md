@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llaamo Oscar</h1>
+<h1 align="center">Hola 👋, me llamo Oscar</h1>
 <h3 align="center">Soy un Software Developer de Perú</h3>
 
 - Me puedes preguntar sobre **React, Node.js, MySQL**
