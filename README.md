@@ -1,6 +1,10 @@
 <h1 align="center">Hola 👋, me llamo Oscar</h1>
 <h3 align="center">Soy un Software Developer de Perú</h3>
 
+Me fascina la tecnología y refuerzo mis conocimientos día a día, desarrollo aplicaciones API REST con Node.js y estoy en la búsqueda de un puesto que me permita especializarme en back-end developer, interesado en aprender más sobre testing, y escalabilidad.
+
+Actualmente, estoy aprendiendo TypeScript, Java con su framework Spring y los servicios en la nube.
+
 - Me puedes preguntar sobre **React, Node.js, MySQL**
 
 - 📫 Me puedes escribir aqui **mvrkzk30@gmail.com**
