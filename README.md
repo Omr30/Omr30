@@ -5,7 +5,6 @@ Me fascina la tecnología y refuerzo mis conocimientos día a día, desarrollo a
 
 Actualmente, estoy aprendiendo TypeScript, Java con su framework Spring y los servicios en la nube.
 
-- Me puedes preguntar sobre **React, Node.js, MySQL**
 
 - 📫 Me puedes escribir aqui **mvrkzk30@gmail.com**
 
