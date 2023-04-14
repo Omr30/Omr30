@@ -6,7 +6,7 @@ Me fascina la tecnología y refuerzo mis conocimientos día a día, desarrollo a
 Actualmente, estoy aprendiendo TypeScript, Java con su framework Spring y los servicios en la nube.
 
 
-- 📫 Me puedes escribir aqui **mvrkzk30@gmail.com**
+- 📫 Me puedes escribir aqui **oscarmenacho3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
